@@ -1,7 +1,10 @@
 *.cache
 *.log
 *readme*
+*.lst
+*.ain
 steam.inf
 admins_simple.ini
+*clientprefs-sqlite.sq3
 
 
