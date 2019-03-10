@@ -1,0 +1,7 @@
+*.cache
+*.log
+*readme*
+steam.inf
+admins_simple.ini
+
+
