@@ -5,6 +5,8 @@
 *.ain
 steam.inf
 admins_simple.ini
-*clientprefs-sqlite.sq3
-
-
+*.sq3
+download
+downloadlists
+addons/sourcemod/gamedata/sm-cstrike.games/game.csgo.txt
+*.*tmp
